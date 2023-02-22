@@ -1,1 +1,17 @@
-{productdata :[],logidata:[]}
+{
+"ProductsData" : [],
+"UsersData" : [
+  {
+  "UserName" : "jitender",
+  "Password" : "jitender",
+  "Admin" : "true",
+  "UserCart" : []  
+  },
+  {
+  "UserName" : "jitenderji1137",
+  "Password" : "jitenderji1137",
+  "Admin" : "true",
+  "UserCart" : []  
+  }
+]  
+}
